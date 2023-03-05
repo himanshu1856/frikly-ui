@@ -16,7 +16,7 @@ function Footer() {
       <div className='row'>
         <div className='col-5'>
           <div className='row footer-margin'>
-            <div className='col-1 offset-5'><img src={Vector} style={{ height: "30px", width: "40px" }} /></div>
+            <div className='col-1 offset-3'><img src={Vector} style={{ height: "30px", width: "40px" }} /></div>
             <div className='col-2'><span style={{ fontSize: "30px", color: "white" }}>frkily</span></div>
           </div>
           <div className='row offset-3' style={{color:"#EAE0D5",fontSize:"14px"}}>
