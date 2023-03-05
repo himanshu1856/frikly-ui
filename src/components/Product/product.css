@@ -1,0 +1,33 @@
+.local-nav{
+    color: #8A8A8A;
+    font-size: 14px;
+}
+
+.main-image{
+    height: 538px;
+    width: 533.35px;
+}
+
+.opt-image{
+    height: 60.59px;
+    width: 60px;
+}
+
+.price{
+    font-size: 21.76px;
+    color: #868686;
+}
+
+.actual-price{
+    font-size: 48px;
+    color: #C6AC8F;
+}
+
+.price-container{
+    margin-top: 50px;
+}
+
+.heart{
+    text-align: center;
+    color: red;
+}
