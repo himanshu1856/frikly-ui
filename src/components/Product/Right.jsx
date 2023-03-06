@@ -24,6 +24,7 @@ function Right() {
             <br/>
             <ProfileCard/>
             <Delievery/>
+            <hr/>
             <Overview/>
         </div>   
     </>

@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Header/>
       <Product/>
-      <hr/>
+      <hr style={{margin:"70px"}}/>
       <SimilarProducts/>
       <RecentlyViewed/>
       <Footer/>
